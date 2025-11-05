@@ -1,0 +1,9 @@
+APScheduler==3.11.0
+fastapi==0.115.8
+httpx==0.28.1
+ldap3==2.9.1
+python-ldap==3.4.4
+uvicorn==0.34.2
+python-jose~=3.4.0
+python-multipart==0.0.20
+pip==25.3
